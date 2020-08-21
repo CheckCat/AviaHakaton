@@ -1,0 +1,29 @@
+
+footer {
+    margin-top: 40px;
+    background-color: #EDEDED;
+}
+
+footer div {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 auto;
+}
+
+footer img{
+    width: 140px;
+    height: 140px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+footer p {
+    font-size: 15px;
+    color: #949494;
+    margin: 5px 0;
+}
+
+footer p:last-child {
+    margin-bottom: 30px;
+}
